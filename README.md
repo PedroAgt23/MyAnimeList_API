@@ -1,2 +1,3 @@
 # MyAnimeList_API
-Um site feito usando a Jikan api 
+Um site feito usando a Jikan api e php;
+
